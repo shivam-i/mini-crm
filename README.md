@@ -10,10 +10,12 @@
 
 ## Credential for Admin panel :
 Username: admin
+
 Password: admin
 
 ## Credential for User panel :
 Username: test@email.com
+
 Password: Demo@123
 
 ## HOME PAGE
