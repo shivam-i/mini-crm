@@ -8,7 +8,7 @@
 7.Run the script http://localhost/crm (frontend)
 8.Run the script http://localhost/crm/admin 
 
-## nCredential for Admin panel :
+## Credential for Admin panel :
 Username: admin
 Password: admin
 
@@ -17,13 +17,13 @@ Username: test@email.com
 Password: Demo@123
 
 ## HOME PAGE
-![home-page]()
+![home-page](https://github.com/shivam-i/mini-crm/blob/3144d86f1fcdc36fe3f3cf2ca9ad779d7d6708bb/crm/assets/img/screenshots/home-page.png)
 
 ## REGISTRATION PAGE
-![registration-page]()
+![registration-page](https://github.com/shivam-i/mini-crm/blob/3144d86f1fcdc36fe3f3cf2ca9ad779d7d6708bb/crm/assets/img/screenshots/registration-page.png)
 
 ## USER DASHBOARD
-![user-dashboard]()
+![user-dashboard](https://github.com/shivam-i/mini-crm/blob/3144d86f1fcdc36fe3f3cf2ca9ad779d7d6708bb/crm/assets/img/screenshots/user-dashboard.png)
 
 ## ADMIN DASHBOARD
-![admin-dashboard]()
+![admin-dashboard](https://github.com/shivam-i/mini-crm/blob/3144d86f1fcdc36fe3f3cf2ca9ad779d7d6708bb/crm/assets/img/screenshots/admin-dashboard.png)
